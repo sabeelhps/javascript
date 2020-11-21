@@ -1,0 +1,11 @@
+
+Conditionals (Making Decision with code)
+
+    if you are younger than 18
+        you can enter a venue
+    
+    if you are between 18 and 21
+        you can enter but cannot drink
+    
+    Otherwise
+        you can Enter and Drink
