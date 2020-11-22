@@ -1,0 +1,15 @@
+
+
+// 1.Sum of all Odd Numbers upto N
+
+// 2.Check whether the number is prime or not
+
+// 3.Print the pattern below
+
+// *
+// * *
+// * * *
+// * * * *
+// * * * * *
+
+// 4.Print primes upto N (e.g N=15, 2, 3, 5, 7, 11, 13 )
