@@ -8,6 +8,7 @@ while(i<=num-1){
 
     if(num%i===0){
         console.log("Not Prime!!");
+        break;
     }
 
     i++;    
