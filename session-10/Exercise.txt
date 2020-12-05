@@ -1,0 +1,32 @@
+
+
+
+
+
+
+// 1.
+
+Home Work
+
+
+
+
+
+--------------------------------For Loops Problems----------------------------------------------
+
+1.Print all number divisble by 5 and 3 between 5 and 50
+
+2.Check Prime 
+
+3.print the pattern for N=5
+
+  * 
+  * *
+  * * *
+  * * * *
+  * * * * *
+
+4.Print primes upto N (e.g N=15, 2, 3, 5, 7, 11, 13 )
+
+5.Factorial of a number
+
