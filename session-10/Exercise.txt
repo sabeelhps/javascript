@@ -1,17 +1,3 @@
-
-
-
-
-
-
-// 1.
-
-Home Work
-
-
-
-
-
 --------------------------------For Loops Problems----------------------------------------------
 
 1.Print all number divisble by 5 and 3 between 5 and 50
