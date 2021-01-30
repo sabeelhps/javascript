@@ -1,0 +1,7 @@
+
+
+1.Print the numbers upto N 
+
+2.Check whether the number is prime or not 
+
+3.Find the sum of all odd numbers between 55 and 130 
