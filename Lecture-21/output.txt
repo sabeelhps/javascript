@@ -1,0 +1,45 @@
+const input = document.querySelector('input')
+undefined
+input
+<input type=​"text" placeholder=​"Search">​
+input.getAttribute('type')
+"text"
+input.getAttribute('placeholder')
+"Search"
+input.getAttribute('src')
+null
+
+
+
+--------------------------------------
+
+const img = document.createElement('img');
+undefined
+img
+<img>​
+img.src='https://images.unsplash.com/photo-1556329415-8aac3b1c1ea7?ixid=MXwxMjA3fDB8MHx0b3BpYy1mZWVkfDEwNXw2c01WalRMU2tlUXx8ZW58MHx8fA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60'
+"https://images.unsplash.com/photo-1556329415-8aac3b1c1ea7?ixid=MXwxMjA3fDB8MHx0b3BpYy1mZWVkfDEwNXw2c01WalRMU2tlUXx8ZW58MHx8fA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60"
+img
+<img src=​"https:​/​/​images.unsplash.com/​photo-1556329415-8aac3b1c1ea7?ixid=MXwxMjA3fDB8MHx0b3BpYy1mZWVkfDEwNXw2c01WalRMU2tlUXx8ZW58MHx8fA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60">​
+const body = document.querySelector('body')
+undefined
+body.appendChild(img)
+
+
+----------------------------------------------------
+
+
+const li = document.querySelector('li:nth-of-type(2)')
+undefined
+li
+<li>​::marker​"IronMan"</li>​
+li.remove()
+
+
+--------------------------------------
+
+const input = document.querySelector('input')
+undefined
+input.nextElementSibling
+<img src=​"https:​/​/​images.unsplash.com/​photo-1616604745302-60a195c7061a?ixid=MXwxMjA3fDB8MHx0b3BpYy1mZWVkfDIxfDZzTVZqVExTa2VRfHxlbnwwfHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60" alt>​
+input.previousElementSibling
